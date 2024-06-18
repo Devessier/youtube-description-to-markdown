@@ -36,6 +36,10 @@
 	}
 </script>
 
+<svelte:head>
+	<title>YouTube Description to Markdown</title>
+</svelte:head>
+
 <div class="mx-auto max-w-xl px-2">
 	<header class="flex justify-center py-8">
 		<h1 class="text-center text-4xl font-semibold">YouTube Description to Markdown</h1>
